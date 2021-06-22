@@ -18,3 +18,9 @@ If there is any intention to participate, please Pull Requests.
 | ------------ | ------------- |
 | api-shorturl | 短网址生成模块 |
 
+### 公共接口列表
+
+| 接口功能   | 接口地址                        | 请求方式 | 请求示例                                      | 接口描述 |
+| ---------- | ------------------------------- | -------- | --------------------------------------------- | -------- |
+| 短网址生成 | https://api.jxinx.tech/shorturl | GET/POST | https://api.jxinx.tech/shorturl/www.baidu.com |          |
+
