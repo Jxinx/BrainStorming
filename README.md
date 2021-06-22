@@ -1,5 +1,6 @@
 # BrainStorming
 BrainStorming by everybody
+If there is any intention to participate, please Pull Requests.
 
 ---
 
