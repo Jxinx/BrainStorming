@@ -9,7 +9,7 @@ import tech.jxinx.api.shorturl.util.URLUtils;
 /**
  * 接口
  */
-@RequestMapping("/")
+@RequestMapping("/api")
 @RestController
 public class ShortURLController {
 

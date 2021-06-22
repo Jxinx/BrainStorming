@@ -1,2 +1,5 @@
+context:
+  path: /api
+
 server:
-  port: 8081
+  port: 8082
