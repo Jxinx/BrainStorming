@@ -28,7 +28,7 @@ public class ShortURLController {
         // 短网址
         String shortURL = "";
 
-        if (!ObjectUtils.isEmpty(longURL)) {
+        if (ObjectUtils.isEmpty(longURL)) {
             return shortURL;
         }
 
