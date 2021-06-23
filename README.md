@@ -20,6 +20,7 @@ If there is any intention to participate, please Pull Requests and Issues.
 | 依赖       | 版本          |
 | ---------- | ------------- |
 | JDK        | 8             |
+| Maven      | 3.6.1         |
 | SpringBoot | 2.3.4.RELEASE |
 
 ### 模块介绍
