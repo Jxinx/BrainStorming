@@ -27,11 +27,12 @@ If there is any intention to participate, please Pull Requests and Issues.
 
 | 模块名       | 模块功能      |
 | ------------ | ------------- |
-| api-shorturl | 短网址生成模块 |
+| api-shorturl | 公共接口模块 |
 
 ### 公共接口列表
 
 | 接口功能   | 接口地址                        | 请求方式 | 请求示例                                      | 接口描述 |
 | ---------- | ------------------------------- | -------- | --------------------------------------------- | -------- |
-| 短网址生成 | https://www.jxinx.tech/api/shorturl | GET/POST | https://www.jxinx.tech/api/shorturl/www.baidu.com |          |
+| 短网址生成 | https://www.jxinx.tech/api/shorturl | GET/POST | https://www.jxinx.tech/api/shorturl/www.baidu.com | 将长网址缩短，支持t.cn,dwz.mk,suo.im等短网址生成 |
+| 垃圾分类查询 | https://www.jxinx.tech/api/garbage | GET/POST | https://www.jxinx.tech/api/garbage/西瓜 | 通过关键字搜索物品属于哪种垃圾 |
 

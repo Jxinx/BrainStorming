@@ -3,3 +3,6 @@ context:
 
 server:
   port: 8082
+
+alapi:
+  token: PcVOptknjR8n8nzB
