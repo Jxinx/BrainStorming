@@ -24,3 +24,6 @@ hs_err_pid*
 /api-shorturl/.mvn/
 /api-shorturl/target/
 /eureka-server/target/
+/consumer-order/target/
+/api-commons/target/
+/provider-payment/target/
