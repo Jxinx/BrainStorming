@@ -24,7 +24,7 @@ If there is any intention to participate, please Pull Requests and Issues.
 | SpringBoot         | 2.2.2.RELEASE |
 | SpringCloud        | Hoxton.SR1    |
 | SpringCloudAlibaba | 2.1.0.RELEASE |
-| HuTool             | 5.1.0         |
+| Hutool             | 5.1.0         |
 
 ### 模块介绍
 
