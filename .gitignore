@@ -27,3 +27,4 @@ hs_err_pid*
 /consumer-order/target/
 /api-commons/target/
 /provider-payment/target/
+/eureka-server-slave/target/
