@@ -11,6 +11,7 @@
   <description>父工程,统一管理jar包版本</description>
 
   <modules>
+    <module>api-shorturl</module>
     <module>eureka-server</module>
     <module>consumer-order</module>
     <module>provider-payment</module>
