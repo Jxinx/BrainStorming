@@ -33,7 +33,9 @@ If there is any intention to participate, please Pull Requests and Issues.
 | api-shorturl | 公共接口模块 |
 | api-commons | 公共模块 |
 | eureka-server | Eureka服务注册中心 |
+| eureka-server-slave | Eureka服务注册中心2 |
 | provider-payment | 服务提供者 |
+| provider-payment-slave | 服务提供者2 |
 | consumer-order | 服务消费者 |
 
 ### 公共接口列表
