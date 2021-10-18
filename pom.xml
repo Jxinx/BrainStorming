@@ -16,6 +16,7 @@
     <module>provider-payment</module>
     <module>api-commons</module>
     <module>eureka-server-slave</module>
+    <module>provider-payment-slave</module>
   </modules>
 
   <!--统一管理jar包版本-->

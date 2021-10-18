@@ -28,3 +28,4 @@ hs_err_pid*
 /api-commons/target/
 /provider-payment/target/
 /eureka-server-slave/target/
+/provider-payment-slave/target/
